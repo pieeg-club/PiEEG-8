@@ -176,17 +176,12 @@ Details, troubleshooting and the data format: **[Software docs](https://docs.pie
 | [Troubleshooting](https://docs.pieeg.com/hardware/devices/pieeg-8/troubleshooting/) | Fixes for SPI, GPIO, software and noise |
 | [Safety](https://docs.pieeg.com/hardware/devices/pieeg-8/safety/) | Battery-only operation and responsible use |
 
-## Video
-
-[![How to start with PiEEG](https://raw.githubusercontent.com/pieeg-club/PiEEG-docs/main/public/images/hardware/2026/10/pieeg8_video.jpg)](https://youtu.be/zOxcixEGeE8)
 
 ## Citation
 
 If you use PiEEG-8 in research, please cite:
 
 ```
-I. Rakhmatulin et al. PIEEG: Turn a Raspberry Pi into a Brain-Computer-Interface
-to measure biosignals. arXiv:2201.02228, 2022.
 
 I. Rakhmatulin et al. Raspberry Pi Shield – for measure EEG (PIEEG). 2021 5th International
 Conference on Electrical, Electronics, Communication, Computer Technologies and Optimization
